@@ -47,7 +47,7 @@ export const FAQSection = () => {
 
       {/* Bottom Racing Info */}
       <div className="mt-16 p-6 rounded-lg bg-secondary/20 border border-border/30 backdrop-blur-sm">
-        <div className="flex items-center justify-between">
+         <div className="flex items-center justify-between">
           <div>
             <h3 className="font-f1 font-bold text-lg text-foreground mb-2">
               RACING STATUS: ACTIVE
